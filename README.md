@@ -1,7 +1,5 @@
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 ![product-screenshot](./public/demo/feed.png)
